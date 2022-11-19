@@ -18,3 +18,14 @@ def analyser_commande():
     )
 
     return parser.parse_args()
+
+def formater_légender():
+    
+def formater_damier():
+
+def formater_jeu():
+    
+def formater_les_parties():
+    
+def récupérer_le_coup():
+    
